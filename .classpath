@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-17">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="Resources/selenium-server-4.1.2.jar"/>
+	<classpathentry kind="lib" path="Resources/bcpkix-jdk15on-1.64.jar"/>
+	<classpathentry kind="lib" path="Resources/bcprov-jdk15on-1.64.jar"/>
+	<classpathentry kind="lib" path="Resources/commons-codec-1.13.jar"/>
+	<classpathentry kind="lib" path="Resources/commons-compress-1.21.jar"/>
+	<classpathentry kind="lib" path="Resources/commons-io-2.6.jar"/>
+	<classpathentry kind="lib" path="Resources/commons-lang3-3.12.0.jar"/>
+	<classpathentry kind="lib" path="Resources/dec-0.1.2.jar"/>
+	<classpathentry kind="lib" path="Resources/docker-java-3.2.13.jar"/>
+	<classpathentry kind="lib" path="Resources/docker-java-api-3.2.13.jar"/>
+	<classpathentry kind="lib" path="Resources/docker-java-core-3.2.13.jar"/>
+	<classpathentry kind="lib" path="Resources/docker-java-transport-3.2.13.jar"/>
+	<classpathentry kind="lib" path="Resources/docker-java-transport-httpclient5-3.2.13.jar"/>
+	<classpathentry kind="lib" path="Resources/gson-2.9.0.jar"/>
+	<classpathentry kind="lib" path="Resources/guava-19.0.jar"/>
+	<classpathentry kind="lib" path="Resources/httpclient5-5.0.3.jar"/>
+	<classpathentry kind="lib" path="Resources/httpcore5-5.0.2.jar"/>
+	<classpathentry kind="lib" path="Resources/jackson-annotations-2.10.3.jar"/>
+	<classpathentry kind="lib" path="Resources/jackson-core-2.10.3.jar"/>
+	<classpathentry kind="lib" path="Resources/jackson-databind-2.10.3.jar"/>
+	<classpathentry kind="lib" path="Resources/jcl-over-slf4j-1.7.30.jar"/>
+	<classpathentry kind="lib" path="Resources/jna-5.8.0.jar"/>
+	<classpathentry kind="lib" path="Resources/slf4j-api-1.7.36.jar"/>
+	<classpathentry kind="lib" path="Resources/webdrivermanager-5.1.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
